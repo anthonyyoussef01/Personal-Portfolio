@@ -8,8 +8,8 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'Info', link: '/Info' },
-      { text: 'Experience', link: '/Experience' },
+      { text: 'Info', link: '/info' },
+      { text: 'Experience', link: '/experience' },
       {
         text: 'Projects',
         items: [
@@ -39,15 +39,18 @@ export default defineConfig({
           },
         ],
       },
-      { text: 'Contact', link: '/Contact' },
+      { text: 'Contact', link: '/contact' },
     ],
 
     sidebar: [
       {
         // text: 'Guide',
         items: [
-          { text: 'Example', link: '/example' },
-          // ...
+          //{ text: 'Example', link: '/example' },
+          { text: 'Info', link: '/info' },
+          { text: 'Experience', link: '/experience' },
+          { text: 'Projects', link: '/projects' },
+          { text: 'Contact', link: '/contact' },
         ],
       },
     ],
