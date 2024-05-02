@@ -9,5 +9,5 @@
   "devDependencies": {
     "vitepress": "latest"
   },
-  "files": ["docs/Anthony_Resume.pdf"],
+  "files": ["docs/Anthony_Resume.pdf"]
 }
