@@ -1,6 +1,6 @@
 # Experience
 
-### Qamous Web App NY
+### Qamous Web App
 **Project Leader**  
 January 2023 – Present  
 - Engineered using ReactJS, TypeScript, NestJS, Sass, and MySQL, delivering a staggering 91 Lighthouse performance score
@@ -9,7 +9,7 @@ January 2023 – Present
 - Rigorously tested using Jest to ensure stability, performance, and security, mitigating potential issues and vulnerabilities
 - Scraped dialectic language data using Python and applied i18n internationalization to create an accessible and robust dataset
 
-### eClinical Solutions New York, NY
+### eClinical Solutions - New York, NY
 **Full Stack Software Engineer (AI/ML Team)**  
 December 2022 - September 2023  
 - Integrated and deployed AWS S3 AI/ML models, performed SQL migrations, and optimized query performance by 10%
@@ -17,14 +17,14 @@ December 2022 - September 2023
 - Designed and implemented over 20 new features based on market research and collaborated in an Agile Scrum framework
 - Developed and maintained backend APIs, executed software restructuring, and drove implementation of key features using C#
 
-### Columbia University New York, NY
+### Columbia University - New York, NY
 **Application Systems Developer (Part Time)**  
 June 2022 - December 2022  
 - Performance-tuned the Directory of Classes system and developed a new system, decreasing update runtime by 83% using C
 - Tested the performance and reliability of the new system using python and bash, contributing to the system’s data accuracy
 - Prepared UNIX shell scripts for end-to-end testing of applications, ensuring system stability for over 4,000 students and staff
 
-### Wayfair Boston, MA
+### Wayfair - Boston, MA
 **People Analytics Co-op**  
 December 2021 - June 2022  
 - Selected as Co-op Captain: created and facilitated events for hundreds of co-ops fostering engagement and community-building
