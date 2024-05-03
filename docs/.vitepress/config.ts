@@ -50,6 +50,7 @@ export default defineConfig({
           { text: 'Info', link: '/info' },
           { text: 'Experience', link: '/experience' },
           { text: 'Projects', link: '/projects' },
+          { text: 'Tech Stack', link: '/tech-stack' },
           { text: 'Contact', link: '/contact' },
         ],
       },
