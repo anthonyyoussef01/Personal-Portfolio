@@ -1,5 +1,5 @@
 # Welcome!
-## Check out some of my projects:
+### Check out some of my projects:
 
 - [Qamous (Work in Progress)](https://github.com/Qamous/Qamous)
 - [Snake](https://github.com/anthonyyoussef01/Snake)

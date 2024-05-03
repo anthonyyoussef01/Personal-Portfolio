@@ -1,4 +1,6 @@
-# Experience
+# Résumé &nbsp; &nbsp; <button class="VPButton medium brand" @click="viewPdf()">View PDF Version</button>
+
+## Experience
 
 ### Qamous Web App
 **Project Leader**  
@@ -33,11 +35,19 @@ December 2021 - June 2022
 - Presented data analyses and insights to leadership and identified enhancements for recruitment and candidate experience
 - Programmed a Slack chatbot saving employees valuable hours finding time-sensitive resources
 
----
-
-# Education
+## Education
 **Northeastern University**  
 September 2019 - August 2022  
 B.S. Computer Science with a concentration in Artificial Intelligence  
 - Dean’s List Award based on a final GPA of over 3  
 - Relevant Coursework: IS4200 – web indexing, crawling, and implementing an Elasticsearch-based search engine; CS4100 – deploying Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), and Long Short-Term Memory (LSTM) models using PyTorch and Scikit-Learn; DS4400 – regression, classification, decision trees, hypothesis testing, Naïve Bayes, Kmeans clustering; CS4500 – Git, JSON, Test-Driven Development, unit testing, GUI testing, pair programming
+
+<script>
+export default {
+  methods: {
+    viewPdf() {
+      window.location.href = "Anthony_Resume.pdf";
+    }
+  }
+}
+</script>
