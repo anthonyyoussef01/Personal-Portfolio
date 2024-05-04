@@ -15,7 +15,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Assembly](https://img.shields.io/badge/assembly-%23000000.svg?style=for-the-badge&logo=assembly&logoColor=white)
 <!-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) -->
-![AutoHotKey](https://img.shields.io/badge/AutoHotkey-%23E77E76.svg?style=for-the-badge&logo=autohotkey&logoColor=white)
 
 **Web and Mobile Application Development**:
 
@@ -26,10 +25,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Outdated Languages**:
+**Outdated / Misc Languages**:
 
 <!-- ![COBOL](https://img.shields.io/badge/cobol-%2300599C.svg?style=for-the-badge&logo=cobol&logoColor=white) -->
 ![QBasic](https://img.shields.io/badge/QBasic-%235272BC.svg?style=for-the-badge&logo=qbasic&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-%230C4A38.svg?style=for-the-badge&logo=racket&logoColor=white)
+![AutoHotKey](https://img.shields.io/badge/AutoHotkey-%23E77E76.svg?style=for-the-badge&logo=autohotkey&logoColor=white)
 
 **Data Science and Machine Learning**:
 
