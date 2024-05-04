@@ -3,7 +3,7 @@
 ## Experience
 
 ### Qamous Web App
-**Project Leader**  
+**Project Lead Developer**  
 January 2023 – Present  
 - Engineered using ReactJS, TypeScript, NestJS, Sass, and MySQL, delivering a staggering 91 Lighthouse performance score
 - Designed and incorporated a secure authentication strategy with bcrypt, Express, and Passport.js to safeguard user credentials
@@ -29,18 +29,23 @@ June 2022 - December 2022
 ### Wayfair - Boston, MA
 **People Analytics Co-op**  
 December 2021 - June 2022  
-- Selected as Co-op Captain: created and facilitated events for hundreds of co-ops fostering engagement and community-building
+- <u>Selected as Co-op Captain:</u> created and facilitated events for hundreds of co-ops fostering engagement and community-building
 - Generated complex analytics SQL queries for Google BigQuery and DataStudio to answer stakeholders and created query writing & optimization resources, allowing less technical employees to dedicate over 25% more time towards client meetings
 - Automated various team responsibilities including the processing time reduction for a regular daily operation by 68% using BigQuery and eliminating a 16 hr/month data-extraction task & a 6.25 hr/month employee data cleanup task using Python
 - Presented data analyses and insights to leadership and identified enhancements for recruitment and candidate experience
 - Programmed a Slack chatbot saving employees valuable hours finding time-sensitive resources
 
 ## Education
-**Northeastern University**  
-September 2019 - August 2022  
-B.S. Computer Science with a concentration in Artificial Intelligence  
-- Dean’s List Award based on a final GPA of over 3  
-- Relevant Coursework: IS4200 – web indexing, crawling, and implementing an Elasticsearch-based search engine; CS4100 – deploying Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), and Long Short-Term Memory (LSTM) models using PyTorch and Scikit-Learn; DS4400 – regression, classification, decision trees, hypothesis testing, Naïve Bayes, Kmeans clustering; CS4500 – Git, JSON, Test-Driven Development, unit testing, GUI testing, pair programming
+### Northeastern University - Boston, MA
+**B.S. Computer Science with a concentration in Artificial Intelligence**
+September 2019 - August 2022
+- <u>Resident Assistant:</u> fostered relationship development among over 100 students and planned staff meetings
+- <u>Relevant Coursework:</u> 
+  - Information Retrieval – web indexing, crawling, and implementing an Elasticsearch-based search engine
+  - Foundations of Artificial Intelligence – deploying Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), and Long Short-Term Memory (LSTM) models using PyTorch and Scikit-Learn
+  - Machine Learning I – regression, classification, decision trees, hypothesis testing, Naïve Bayes, Kmeans clustering
+  - Software Development – Git, JSON, Test-Driven Development, unit testing, GUI testing, pair programming
+- <u>Outreach Coordinator, Research Assistant:</u> updated website, migrated professor resources, and analyzed mice dMRI images
 
 <script>
 export default {
