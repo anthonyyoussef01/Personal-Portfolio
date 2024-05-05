@@ -7,6 +7,10 @@ export default defineConfig({
   description: 'Personal portfolio for Anthony Elkommos Youssef.',
 
   themeConfig: {
+    logo: { 
+      light: "favicon.ico", 
+      dark: "bnw_favicon.ico"
+    },
     nav: [
       { text: 'Info', link: '/info' },
       { text: 'Experience', link: '/experience' },
