@@ -26,6 +26,10 @@ export default defineConfig({
             link: 'https://github.com/anthonyyoussef01/Snake',
           },
           {
+            text: 'Real-Time Transaction System',
+            link: 'https://github.com/anthonyyoussef01/Real-Time-Transaction-System',
+          },
+          {
             text: 'feedback-app',
             link: 'https://github.com/anthonyyoussef01/feedback-app',
           },
