@@ -14,36 +14,21 @@ export default defineConfig({
     nav: [
       { text: 'Info', link: '/info' },
       { text: 'Experience', link: '/experience' },
+      { text: 'Projects', link: '/projects' },
       {
-        text: 'Projects',
+        text: 'Websites',
         items: [
           {
             text: 'Qamous (Work in Progress)',
-            link: 'https://github.com/Qamous/Qamous',
+            link: 'https://Qamous.org',
           },
           {
-            text: 'Snake',
-            link: 'https://github.com/anthonyyoussef01/Snake',
+            text: 'Friend\'s Resume page',
+            link: 'https://lily-resume.vercel.app',
           },
           {
-            text: 'Real-Time Transaction System',
-            link: 'https://github.com/anthonyyoussef01/Real-Time-Transaction-System',
-          },
-          {
-            text: 'feedback-app',
-            link: 'https://github.com/anthonyyoussef01/feedback-app',
-          },
-          {
-            text: 'github-finder',
-            link: 'https://github.com/anthonyyoussef01/github-finder',
-          },
-          {
-            text: 'Stonkarithm',
-            link: 'https://github.com/anthonyyoussef01/Stonkarithm',
-          },
-          {
-            text: 'BasketballPointPrediction',
-            link: 'https://github.com/anthonyyoussef01/BasketballPointPrediction',
+            text: 'The Key of Life Scouting Group',
+            link: 'https://TheKeyOfLifeScoutingGroup.com',
           },
         ],
       },
