@@ -27,6 +27,10 @@ export default defineConfig({
             link: 'https://lily-resume.vercel.app',
           },
           {
+            text: 'Feedback App',
+            link: 'https://master--chic-hotteok-a293f4.netlify.app/'
+          },
+          {
             text: 'The Key of Life Scouting Group',
             link: 'https://TheKeyOfLifeScoutingGroup.com',
           },
