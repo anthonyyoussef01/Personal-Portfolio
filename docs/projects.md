@@ -2,7 +2,15 @@
 ### Check out some of my projects:
 
 ::: details [Qamous (Work in Progress)](https://github.com/Qamous/Qamous)
-A social media dictionary with Arabic Dialectic slang built using React, NestJS, MySQL, and SCSS
+A [social media dictionary](https://qamous.org) with Arabic Dialectic slang built using React, NestJS, MySQL, and SCSS hosted using Vercel, AWS, and Docker Containers.
+:::
+
+::: details [Web Design Company Site (Work in Progress)](https://github.com/anthonyyoussef01/elkommos-web-design)
+A [website](https://ey-web-services.vercel.app/) made with NextJS for a development studio that I am starting.
+:::
+
+::: details [Friend's Resume Page](https://github.com/anthonyyoussef01/lily)
+A NextJS web app [resume site](https://lily-resume.vercel.app) for a Physician Assistant styled using Taiwind and the ShadcnUI and Aceternity libraries.
 :::
 
 ::: details [Real-Time Transaction System](https://github.com/anthonyyoussef01/Real-Time-Transaction-System)
@@ -31,4 +39,8 @@ A comparison of various model accuracies, attempting to predict a player's numbe
 
 ::: details [Random Youtube](https://github.com/anthonyyoussef01/RandomYoutube)
 A Python application that uploads videos ([example](https://www.youtube.com/watch?v=_HFGI9vTsL8&feature=youtu.be)) with random pixel colors, titles, and descriptions to YouTube. This was built in order to practice numpy and matplotlib, and learn about the Youtube Data API and the Python library moviepy
+:::
+
+::: info NOTE
+Find more of these projects on my [GitHub](https://github.com/anthonyyoussef01)
 :::
