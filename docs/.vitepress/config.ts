@@ -27,7 +27,7 @@ export default defineConfig({
             link: 'https://lily-resume.vercel.app',
           },
           {
-            text: 'Web Design Company Site (Work in Progress)',
+            text: 'Web Design Company Site',
             link: 'https://ey-web-services.vercel.app'
           },
           {
@@ -35,7 +35,7 @@ export default defineConfig({
             link: 'https://master--chic-hotteok-a293f4.netlify.app'
           },
           {
-            text: 'The Key of Life Scouting Group',
+            text: 'The Key of Life Scouting Group (High School Project)',
             link: 'https://TheKeyOfLifeScoutingGroup.com',
           },
         ],
