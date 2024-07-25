@@ -46,5 +46,5 @@ A website made from scratch during sophomore-junior years of high school and mai
 :::
 
 ::: info NOTE
-Find more of these projects on my [GitHub](https://github.com/anthonyyoussef01)
+Find many more projects featured on my [GitHub](https://github.com/anthonyyoussef01)
 :::

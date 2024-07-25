@@ -1,0 +1,10 @@
+[[redirects]]
+  from = "www.anthony.elkommos.com"
+  to = "anthony.elkommos.com"
+  status = 301
+  force = true
+[[redirects]]
+  from = "elkommos.me"
+  to = "www.elkommos.me"
+  status = 301
+  force = true
