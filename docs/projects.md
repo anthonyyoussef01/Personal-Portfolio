@@ -6,7 +6,7 @@ A [social media dictionary](https://qamous.org) with Arabic Dialectic slang buil
 :::
 
 ::: details [Web Design Company Site](https://github.com/anthonyyoussef01/elkommos-web-design)
-A [website](https://ey-web-services.vercel.app/) made with NextJS for a development studio that I am starting.
+A [website](https://elkommos.com/) made with NextJS for a development studio that I am starting.
 :::
 
 ::: details [Friend's Resume Page](https://github.com/anthonyyoussef01/lily)

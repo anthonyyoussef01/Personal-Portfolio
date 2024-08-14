@@ -28,7 +28,7 @@ export default defineConfig({
           },
           {
             text: 'Web Design Company Site',
-            link: 'https://ey-web-services.vercel.app'
+            link: 'https://elkommos.com'
           },
           {
             text: 'Feedback App',
