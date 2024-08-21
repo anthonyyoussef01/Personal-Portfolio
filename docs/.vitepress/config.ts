@@ -23,8 +23,12 @@ export default defineConfig({
             link: 'https://Qamous.org',
           },
           {
-            text: 'Friend\'s Resume page',
-            link: 'https://lily-resume.vercel.app',
+            text: 'Engineering Consulting Firm Site (Work in Progress)',
+            link: 'pec-mep.com',
+          },
+          {
+            text: 'Physician Assistant Resume page',
+            link: 'https://lily.elkommos.com',
           },
           {
             text: 'Web Design Company Site',

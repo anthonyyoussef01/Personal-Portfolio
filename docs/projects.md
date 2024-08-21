@@ -5,12 +5,16 @@
 A [social media dictionary](https://qamous.org) with Arabic Dialectic slang built using React, NestJS, MySQL, and SCSS hosted using Vercel, AWS, and Docker Containers.
 :::
 
-::: details [Web Design Company Site](https://github.com/anthonyyoussef01/elkommos-web-design)
-A [website](https://elkommos.com/) made with NextJS for a development studio that I am starting.
+::: details [Engineering Consulting Firm Site](https://github.com/anthonyyoussef01/PerspectiveEngineering)
+A ShadCN [website](pec-mep.com) made with NextJS for an Engineering & Consulting firm.
 :::
 
-::: details [Friend's Resume Page](https://github.com/anthonyyoussef01/lily)
-A NextJS web app [resume site](https://lily-resume.vercel.app) for a Physician Assistant styled using Taiwind and the ShadcnUI and Aceternity libraries.
+::: details [Web Design Company Site](https://github.com/anthonyyoussef01/elkommos-web-design)
+A [website](https://elkommos.com/) made with NextJS for an app development studio I lead.
+:::
+
+::: details [Physician Assistant Resume page](https://github.com/anthonyyoussef01/lily)
+A NextJS web app [resume site](https://lily.elkommos.com) for a PA styled using Taiwind and the ShadcnUI and Aceternity libraries.
 :::
 
 ::: details [Real-Time Transaction System](https://github.com/anthonyyoussef01/Real-Time-Transaction-System)
