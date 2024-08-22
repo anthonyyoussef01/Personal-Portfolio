@@ -24,7 +24,7 @@ export default defineConfig({
           },
           {
             text: 'Engineering Consulting Firm Site (Work in Progress)',
-            link: 'pec-mep.com',
+            link: 'https://pec-mep.com/',
           },
           {
             text: 'Physician Assistant Resume page',
