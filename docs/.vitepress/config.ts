@@ -19,11 +19,11 @@ export default defineConfig({
         text: 'Websites',
         items: [
           {
-            text: 'Qamous (Work in Progress)',
+            text: 'Qamous',
             link: 'https://Qamous.org',
           },
           {
-            text: 'Engineering Consulting Firm Site (Work in Progress)',
+            text: 'Engineering Consulting Firm Site',
             link: 'https://pec-mep.com/',
           },
           {

@@ -1,12 +1,12 @@
 # Welcome!
 ### Check out some of my projects:
 
-::: details [Qamous (Work in Progress)](https://github.com/Qamous/Qamous)
+::: details [Qamous](https://github.com/Qamous/Qamous)
 A [social media dictionary](https://qamous.org) with Arabic Dialectic slang built using React, NestJS, MySQL, and SCSS hosted using Vercel, AWS, and Docker Containers.
 :::
 
 ::: details [Engineering Consulting Firm Site](https://github.com/anthonyyoussef01/PerspectiveEngineering)
-A ShadCN [website](pec-mep.com) made with NextJS for an Engineering & Consulting firm.
+A ShadCN [website](https://pec-mep.com) made with NextJS for an Engineering & Consulting firm.
 :::
 
 ::: details [Web Design Company Site](https://github.com/anthonyyoussef01/elkommos-web-design)
