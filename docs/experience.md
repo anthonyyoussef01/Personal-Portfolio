@@ -3,13 +3,12 @@
 ## Experience
 
 ### [Qamous.org](www.qamous.org)
-**Project Lead Developer**  
+**Lead Developer**  
 January 2023 – Present  
-- Engineered using ReactJS, TypeScript, NestJS, Sass, and MySQL, delivering a staggering 91 Lighthouse performance score
+- Engineered using ReactJS, TypeScript, NestJS, Sass, MySQL, TypeORM, Docker, Jest; delivering a 91% performance score
+- Planned and executed the deployment strategy using AWS: Leveraged ECR and ECS for backend and database deployment, ensured secure API access via ALB with HTTPS, and integrated Amazon EFS and S3 for scalable logging and data backup
 - Designed and incorporated a secure authentication strategy with bcrypt, Express, and Passport.js to safeguard user credentials
-- Implemented RESTful API endpoints and integrated React Query for seamless front-to-back data communication
-- Rigorously tested using Jest to ensure stability, performance, and security, mitigating potential issues and vulnerabilities
-- Scraped dialectic language data using Python and applied i18n internationalization to create an accessible and robust dataset
+- Scraped language data, implemented RESTful APIs and integrated React Query for seamless front-to-back data communication
 
 ### eClinical Solutions - New York, NY
 **Full Stack Software Engineer (AI/ML Team)**  
