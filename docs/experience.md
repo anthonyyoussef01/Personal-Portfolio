@@ -36,6 +36,10 @@ December 2021 - June 2022
 - Programmed a Slack chatbot saving employees valuable hours finding time-sensitive resources
 
 ## Education
+### The University of Texas - Austin, TX
+**M.S. Artificial Intelligence**
+August 2024 - August 2025
+
 ### Northeastern University - Boston, MA
 **B.S. Computer Science with a concentration in Artificial Intelligence**
 September 2019 - August 2022
