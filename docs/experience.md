@@ -2,7 +2,7 @@
 
 ## Experience
 
-### Qamous Web App
+### Qamous.org
 **Project Lead Developer**  
 January 2023 – Present  
 - Engineered using ReactJS, TypeScript, NestJS, Sass, and MySQL, delivering a staggering 91 Lighthouse performance score
