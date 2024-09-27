@@ -38,10 +38,12 @@ December 2021 - June 2022
 ## Education
 ### The University of Texas - Austin, TX
 **M.S. Artificial Intelligence**
+<br />
 August 2024 - August 2025
 
 ### Northeastern University - Boston, MA
 **B.S. Computer Science with a concentration in Artificial Intelligence**
+<br />
 September 2019 - August 2022
 - <u>Resident Assistant:</u> fostered relationship development among over 100 students and planned staff meetings
 - <u>Relevant Coursework:</u> 
