@@ -2,7 +2,7 @@
 
 ## Experience
 
-### [Qamous.org](www.qamous.org)
+### [Qamous.org](https://www.qamous.org)
 **Lead Developer**  
 January 2023 – Present  
 - Engineered using ReactJS, TypeScript, NestJS, Sass, MySQL, TypeORM, Docker, Jest; delivering a 91% performance score
