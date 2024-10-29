@@ -31,6 +31,10 @@ export default defineConfig({
             link: 'https://lily.elkommos.com',
           },
           {
+            text: 'Imperial Edge eCommerce Site',
+            link: 'https://imperial-edge.com',
+          },
+          {
             text: 'Web Design Company Site',
             link: 'https://elkommos.com'
           },
