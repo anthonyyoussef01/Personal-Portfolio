@@ -5,6 +5,10 @@
 A [social media dictionary](https://qamous.org) with Arabic Dialectic slang built using React, NestJS, ExpressJS, PassportJS, MySQL, SCSS, and Firebase (for user-submitted blogs) hosted using Vercel, AWS, and Docker Containers.
 :::
 
+::: details [eCommerce Site](https://imperial-edge.com)
+Built a custom Shopify eCommerce website for a shoe selling store: **Imperial Edge**. The code for this site is not available publicly.
+:::
+
 ::: details [Engineering Consulting Firm Site](https://github.com/anthonyyoussef01/PerspectiveEngineering)
 A ShadCN [website](https://pec-mep.com) made with NextJS for an Engineering & Consulting firm.
 :::
