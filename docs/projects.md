@@ -2,7 +2,7 @@
 ### Check out some of my projects:
 
 ::: details [Qamous](https://github.com/Qamous/Qamous)
-A [social media dictionary](https://qamous.org) with Arabic Dialectic slang built using React, NestJS, MySQL, and SCSS hosted using Vercel, AWS, and Docker Containers.
+A [social media dictionary](https://qamous.org) with Arabic Dialectic slang built using React, NestJS, ExpressJS, PassportJS, MySQL, SCSS, and Firebase (for user-submitted blogs) hosted using Vercel, AWS, and Docker Containers.
 :::
 
 ::: details [Engineering Consulting Firm Site](https://github.com/anthonyyoussef01/PerspectiveEngineering)
