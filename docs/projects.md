@@ -5,6 +5,10 @@
 A [social media dictionary](https://qamous.org) with Arabic Dialectic slang built using React, NestJS, ExpressJS, PassportJS, MySQL, SCSS, and Firebase (for user-submitted blogs) hosted using Vercel, AWS, and Docker Containers.
 :::
 
+::: details [Loan Default Risk Analysis](https://github.com/anthonyyoussef01/Credit-Risk-Analysis)
+An machine learning project for predicting loan defaults using customer data analytics, comparing a Cross-validated AdaBoost Classifier, Support Vector Classifier (SVC), and Logistic Regression. AdaBoost and Logistic Regression equally sperformed best by a small margin.
+:::
+
 ::: details [eCommerce Site](https://imperial-edge.com)
 Built a custom Shopify eCommerce website for a shoe selling store: **Imperial Edge**. The code for this site is not available publicly.
 :::
