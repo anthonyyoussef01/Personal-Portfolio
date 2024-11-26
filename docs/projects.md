@@ -17,8 +17,27 @@ Built a custom Shopify eCommerce website for a shoe selling store: **Imperial Ed
 A ShadCN [website](https://pec-mep.com) made with NextJS for an Engineering & Consulting firm.
 :::
 
+::: details [EY Digital Innovations](https://github.com/anthonyyoussef01/ey-digital-innovations)
+A [NextJS website](https://www.elkommos.com) acting as a collection of various digital solutions websites.
+
+<table>
+  <tr>
+    <td><strong><a href="https://github.com/anthonyyoussef01/ey-photo">Photography Company Site</a></strong></td>
+    <td>A <a href="https://photo.elkommos.com/">website</a> made with NextJS for a photography and videography business.</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/anthonyyoussef01/elkommos-web-design">Web Design Company Site</a></strong></td>
+    <td>A <a href="https://web.elkommos.com/">website</a> made with NextJS for an app development studio I lead.</td>
+  </tr>
+</table>
+:::
+
+::: details [Photography Company Site](https://https://github.com/anthonyyoussef01/ey-photo)
+A [website](https://web.elkommos.com/) made with NextJS for an app development studio I lead.
+:::
+
 ::: details [Web Design Company Site](https://github.com/anthonyyoussef01/elkommos-web-design)
-A [website](https://elkommos.com/) made with NextJS for an app development studio I lead.
+A [website](https://web.elkommos.com/) made with NextJS for an app development studio I lead.
 :::
 
 ::: details [Physician Assistant Resume page](https://github.com/anthonyyoussef01/lily)
