@@ -1,4 +1,5 @@
 # Welcome!
+### Check out some of my projects:
 The initial link leads to the codebase (if available), and the link to the live site (if applicable) is included in the description, which appears when you click the arrow.
 
 ::: details [Qamous](https://github.com/Qamous/Qamous)
