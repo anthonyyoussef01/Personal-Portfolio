@@ -6,7 +6,7 @@ A [social media dictionary](https://qamous.org) with Arabic Dialectic slang buil
 :::
 
 ::: details [Loan Default Risk Analysis](https://github.com/anthonyyoussef01/Credit-Risk-Analysis)
-An machine learning project for predicting loan defaults using customer data analytics, comparing a Cross-validated AdaBoost Classifier, Support Vector Classifier (SVC), and Logistic Regression. AdaBoost and Logistic Regression equally performed best by a small margin, but Logistic Regression showed more stable cross-validation performance.
+An machine learning project for predicting loan defaults using customer data analytics, comparing Cross-validated *AdaBoost Classifier*, *Support Vector Classifier (SVC)*, and *Logistic Regression*. AdaBoost and Logistic Regression equally performed best by a small margin, but Logistic Regression showed more stable cross-validation performance.
 :::
 
 ::: details [eCommerce Site](https://imperial-edge.com)
