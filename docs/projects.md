@@ -1,5 +1,5 @@
 # Welcome!
-### Check out some of my projects:
+The initial link leads to the codebase (if available), and the link to the live site (if applicable) is included in the description, which appears when you click the arrow.
 
 ::: details [Qamous](https://github.com/Qamous/Qamous)
 A [social media dictionary](https://qamous.org) with Arabic Dialectic slang built using React, NestJS, ExpressJS, PassportJS, MySQL, SCSS, and Firebase (for user-submitted blogs) hosted using Vercel, AWS, and Docker Containers.
@@ -10,7 +10,7 @@ An machine learning project for predicting loan defaults using customer data ana
 :::
 
 ::: details [eCommerce Site](https://imperial-edge.com)
-Built a custom Shopify eCommerce website for a shoe selling store: **Imperial Edge**. The code for this site is not available publicly.
+Built a [custom Shopify eCommerce Site](https://imperial-edge.com) for a shoe selling store: **Imperial Edge**. The code for this site is not available publicly.
 :::
 
 ::: details [Engineering Consulting Firm Site](https://github.com/anthonyyoussef01/PerspectiveEngineering)
