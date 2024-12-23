@@ -1,5 +1,5 @@
 ---
-title: Redirecting...
+title: Loading...
 layout: page
 ---
 
