@@ -4,7 +4,7 @@
 
 ### [Qamous.org](https://www.qamous.org)
 **Lead Developer**  
-January 2023 – Present  
+September 2023 – Present  
 - Engineered using ReactJS, TypeScript, NestJS, Sass, MySQL, TypeORM, Docker, Jest; delivering a 91% performance score
 - Planned and executed the deployment strategy using AWS: Leveraged ECR and ECS for backend and database deployment, ensured secure API access via ALB with HTTPS, and integrated Amazon EFS and S3 for scalable logging and data backup
 - Designed and incorporated a secure authentication strategy with bcrypt, Express, and Passport.js to safeguard user credentials
@@ -36,9 +36,13 @@ December 2021 - June 2022
 
 ## Education
 ### The University of Texas - Austin, TX
-**M.S. Artificial Intelligence**
+**M.S. Artificial Intelligence | Cumulative GPA: 4.0**
 <br />
 August 2024 - August 2025
+- <u>Relevant Coursework:</u> 
+  - Machine Learning - Classification, Regression, Naïve Bayes, SVMs, HMMs, Statistical Learning Theory, SVD / PCA, MVN, Kernel Methods
+  - Reinforcement Learning - Temporal Difference Learning (TD), Monte Carlo (MC), SARSA, Q-Learning, Dynamic Programming, Dyna-Q / Dyna-Q+, Policy Gradients, REINFORCE, Monte Carlo Tree Search (MCTS)
+  - Deep Learning - Neural Network Design and Training, Stochastic Gradient Descent (SGD), Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNN), Transformers and Attention Mechanisms using PyTorch and Scikit-Learn, Normalization and Residual Connections, Model Overfitting Mitigation, Gradient Computation and Optimization
 
 ### Northeastern University - Boston, MA
 **B.S. Computer Science with a concentration in Artificial Intelligence**
@@ -46,10 +50,10 @@ August 2024 - August 2025
 September 2019 - August 2022
 - <u>Resident Assistant:</u> fostered relationship development among over 100 students and planned staff meetings
 - <u>Relevant Coursework:</u> 
-  - Information Retrieval – web indexing, crawling, and implementing an Elasticsearch-based search engine
-  - Foundations of Artificial Intelligence – deploying Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), and Long Short-Term Memory (LSTM) models using PyTorch and Scikit-Learn
-  - Machine Learning I – regression, classification, decision trees, hypothesis testing, Naïve Bayes, Kmeans clustering
-  - Software Development – Git, JSON, Test-Driven Development, unit testing, GUI testing, pair programming
+  - Information Retrieval – Retrieval Models: Boolean, Vector Space, BM25, Language Models, Search Engine Architecture, ElasticSearch and Kibana, Indexing and Query Optimization, Web Crawling and Link Analysis (PageRank, HITS, SALSA), Text Classification and Feature Engineering, IR Evaluation Metrics (Precision, Recall, nDCG, etc.), Learning to Rank (LambdaMART, Pairwise Models)
+  - Foundations of Artificial Intelligence – deploying Convolutional Neural Network (CNN), Recurrent Neural Network (RNN), Long Short-Term Memory (LSTM) models using PyTorch and Scikit-Learn
+  - Machine Learning I – regression, classification, decision trees, hypothesis testing, Naïve Bayes, k-means clustering, k-NN   
+  - Software Development – Git, JSON, Test-Driven Development, unit testing, GUI testing, pair programming, documentation, abstraction
 - <u>Outreach Coordinator, Research Assistant:</u> updated website, migrated professor resources, and analyzed mice dMRI images
 
 <script>
