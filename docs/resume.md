@@ -6,7 +6,7 @@ layout: page
 <script setup>
 if (typeof window !== 'undefined') {
   setTimeout(() => {
-    window.location.href = '/Anthony_Resume.pdf';
+    window.location.href = '/resume';
   }, 1500);
 }
 </script>

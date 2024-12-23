@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: View Résumé
-      link: /Anthony_Resume.pdf
+      link: /resume
     - theme: alt
       text: GitHub Profile
       link: https://github.com/anthonyyoussef01
