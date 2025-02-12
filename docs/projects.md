@@ -46,7 +46,7 @@ A [website](https://web.elkommos.com/) made with NextJS for an app development s
 :::
 
 ::: details [Physician Assistant Resume page](https://github.com/anthonyyoussef01/lily)
-A NextJS web app [resume site](https://lily.elkommos.com) for a PA styled using Tailwind and the ShadcnUI and Aceternity libraries.
+A NextJS web app [resume site](https://lily.elkommos.com) for a PA styled using Tailwind, and the ShadcnUI + Aceternity libraries.
 :::
 
 ::: details [Real-Time Transaction System](https://github.com/anthonyyoussef01/Real-Time-Transaction-System)
