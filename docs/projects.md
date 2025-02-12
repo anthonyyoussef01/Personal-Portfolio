@@ -10,6 +10,10 @@ A [social media dictionary](https://qamous.org) with Arabic Dialectic slang buil
 A machine learning project for predicting loan defaults using customer data analytics, comparing Cross-validated *AdaBoost Classifier*, *Support Vector Classifier (SVC)*, and *Logistic Regression*. AdaBoost and Logistic Regression equally performed best by a small margin, but Logistic Regression showed more stable cross-validation performance.
 :::
 
+::: details [Will You Be My Valentine?](https://github.com/anthonyyoussef01/WillYouBeMyValentine)
+Developed a [Valentine's date form website](https://will-you-be-my-valentine-lac-three.vercel.app/) with an email response function using Next.js and Tailwind.
+:::
+
 ::: details [eCommerce Site](https://imperial-edge.com)
 Built a [custom Shopify eCommerce Site](https://imperial-edge.com) for a shoe selling store: **Imperial Edge**. The code for this site is not available publicly.
 :::
